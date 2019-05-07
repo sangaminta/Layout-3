@@ -2,11 +2,11 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
-header {
+.header {
   background: black;
   padding: 7px 6%;
 }
-header a {
+.header a {
   text-decoration: none;
   color: #808080;
   padding-right: 15px;
@@ -35,7 +35,7 @@ button.button.simple {
   background: unset;
   color: unset;
 }
-section {
+.section {
   margin: 20px 6%;
   border-bottom: 1px solid #eaeaea;
   border-top: 1px solid #eaeaea;
